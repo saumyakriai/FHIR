@@ -1,4 +1,4 @@
-**Create My First FHIR Resource?**
+**Create My First FHIR Resource**
 
 Exploring healthcare technology.
 Now, what is FHIR—Fast Healthcare Interoperability Resources—? It's a modern standard simplifying data interoperability. FHIR stands out for its rapid adoption and user-friendly approach to healthcare data, representing a shift from proprietary formats to open, accessible standards. It's the secret sauce making healthcare data as shareable as favorite memes. 
