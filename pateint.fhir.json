@@ -1,0 +1,31 @@
+{
+    "resourceType" : "Patient",
+    "name" : [
+        {
+            "use": "official",
+            "given":["Saumya"],
+            "family":"Kumari"
+        }
+    ],
+    "gender":"female",
+    "birthDate":"1990-04-24",
+    "telecom":[
+        {
+            "value" : "89555461",
+            "use":"mobile",
+            "system": "phone"
+        },
+        {
+            "system":"email",
+            "value":"skumari3@buffalo.edu"
+        }        
+    ],
+    "address" : [
+        {
+            "line": ["50 Heath st"],
+            "city":"Buffalo",
+            "state":"NY",
+            "postalcode":"14214"
+        }
+    ]
+}
