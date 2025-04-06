@@ -5,6 +5,8 @@ Exploring healthcare technology can feel like an uphill battle. The tech terrain
 **Setting the Stage**
 #
 Before starting, obtain the JSON schema from https://hl7.org/fhir/ to ensure compliance with FHIR standards. This schema acts as a guide for creating valid resources. Download that schema, extract it, and save it into a new folder.
+<img width="251" alt="image" src="https://github.com/user-attachments/assets/7f39abb4-355b-45bd-911f-743c6e9b30e3" />
+
 
 **Setting up VS Code**
 #
@@ -14,7 +16,8 @@ In VS Code you can use the JSON schema to autocomplete fields for you based on t
 
 **Creating a FHIR Resource**
 #
-Using VS Code, follow the schema to construct a FHIR resource. Focus on essential details like name, gender, birth date, contact information, and address. Here’s a basic example:<img width="247" alt="image" src="https://github.com/user-attachments/assets/e298ad78-cb2e-494f-a399-3ad29330e2e0" />
+Using VS Code, follow the schema to construct a FHIR resource. Focus on essential details like name, gender, birth date, contact information, and address. Here’s a basic example:<img width="259" alt="image" src="https://github.com/user-attachments/assets/cb5fbb4e-99f6-4619-9684-1a4a315515d7" />
+" />
 
 
 
